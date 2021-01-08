@@ -1,0 +1,19 @@
+body{
+    background-color:#3498db;
+    font-family: 'Oswald', sans-serif;
+}
+.outer{
+    position: relative;
+    top: 100px
+}
+h2{
+    text-transform: capitalize;
+}
+textarea{
+    color: red;
+    background-color: white;
+    border-radius: 4px;
+    background-color: #444;
+    text-shadow: yellow;
+    border: 5px solid black;;
+}
